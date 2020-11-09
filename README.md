@@ -1,0 +1,8 @@
+# Laboratory-Managment-System-DBMS
+
+  Laboratory Management Software is a user friendly software developed in Java programming language as front end and SQL server database as back end. This project is designed
+to help the students who are studying in puc and faculties to save the student lab related data.It provides the simplest form of inserting student details and save the data and
+students can retrieve their lab related details easily.
+  We can obesrve that pu students finds it difficult to retreive their lab details and the reason for this is faculties maintain the data in manual format(paper) and its not available at any time.And even faculties take more time to insert and store the data.To help the students and faculties the laboratory management system is built.Where students can view the thier marks and attendance status and also the lab descriptions and faculties can insert students marks ,attendance and also can modify the lab experiments deatils.
+It consumes very less time as compared to manual method.
+    The laboratory Managment System provides the students an easy way to know the laboratory details and faculty to post the student marks etc.This system is mainly usefull for puc students.The security of the data is provided through authenticated users in Laboratory Management System Project in Java, one can view and update the data upto their access permissions only. The information regarding to tasks is provided through syntaxes and sample programs about that lab. Faculty is able to post and marks of students.The students are provided permissions to view their marka and attendance status only. Once the student logged into the lab he can search with id to get his/her attendance status or marks .
